@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Logger</StartupObject>
+    <StartupObject>RemotingSystem.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,9 @@
     <Compile Include="4PDFProgram.cs" />
     <Compile Include="5-Constructors.cs" />
     <Compile Include="6_StaticClass.cs" />
+    <Compile Include="Inheritance\InheritanceDemo.cs" />
+    <Compile Include="Inheritance\Interface.cs" />
+    <Compile Include="Inheritance\InterfaceImpl.cs" />
     <Compile Include="NameSpaces\AllFiles.cs" />
     <Compile Include="NameSpaces\ExcelFiles.cs" />
     <Compile Include="NameSpaces\MainProgram.cs" />
