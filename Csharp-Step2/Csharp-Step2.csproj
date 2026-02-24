@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>FileDetailsConstructors</StartupObject>
+    <StartupObject>Logger</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,7 +50,14 @@
     <Compile Include="3PropertiesDemo.cs" />
     <Compile Include="4PDFProgram.cs" />
     <Compile Include="5-Constructors.cs" />
+    <Compile Include="6_StaticClass.cs" />
+    <Compile Include="NameSpaces\AllFiles.cs" />
+    <Compile Include="NameSpaces\ExcelFiles.cs" />
+    <Compile Include="NameSpaces\MainProgram.cs" />
+    <Compile Include="NameSpaces\PPTFiles.cs" />
+    <Compile Include="NameSpaces\WordFiles.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Properties\6ConstvsReadonly.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
