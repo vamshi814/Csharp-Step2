@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>RemotingSystem.Program</StartupObject>
+    <StartupObject>AbstractionVehicle.AbstractProgram</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,8 @@
     <Compile Include="4PDFProgram.cs" />
     <Compile Include="5-Constructors.cs" />
     <Compile Include="6_StaticClass.cs" />
+    <Compile Include="Abstraction\1Abstraction-Demo.cs" />
+    <Compile Include="Abstraction\2Vehicle.cs" />
     <Compile Include="Inheritance\InheritanceDemo.cs" />
     <Compile Include="Inheritance\Interface.cs" />
     <Compile Include="Inheritance\InterfaceImpl.cs" />
