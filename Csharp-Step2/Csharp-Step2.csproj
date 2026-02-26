@@ -61,6 +61,8 @@
     <Compile Include="NameSpaces\MainProgram.cs" />
     <Compile Include="NameSpaces\PPTFiles.cs" />
     <Compile Include="NameSpaces\WordFiles.cs" />
+    <Compile Include="Polymorphism\1CompileTime.cs" />
+    <Compile Include="Polymorphism\2Runtime.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\6ConstvsReadonly.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
